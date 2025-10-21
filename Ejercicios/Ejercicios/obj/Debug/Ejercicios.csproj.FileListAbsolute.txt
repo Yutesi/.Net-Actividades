@@ -1,0 +1,15 @@
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb
+E:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe.config
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe.config
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.exe
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\bin\Debug\Ejercicios.pdb
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.AssemblyReference.cache
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.csproj.CoreCompileInputs.cache
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.exe
+D:\ADSO\4to Trimestre\.Net\Ejercicios\Ejercicios\obj\Debug\Ejercicios.pdb

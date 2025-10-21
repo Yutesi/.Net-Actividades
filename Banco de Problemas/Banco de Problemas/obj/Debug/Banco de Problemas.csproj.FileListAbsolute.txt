@@ -1,0 +1,7 @@
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\obj\Debug\Banco de Problemas.csproj.AssemblyReference.cache
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\obj\Debug\Banco de Problemas.csproj.CoreCompileInputs.cache
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\bin\Debug\Banco de Problemas.exe.config
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\bin\Debug\Banco de Problemas.exe
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\bin\Debug\Banco de Problemas.pdb
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\obj\Debug\Banco de Problemas.exe
+D:\ADSO\4to Trimestre\.Net\Banco de Problemas\Banco de Problemas\obj\Debug\Banco de Problemas.pdb

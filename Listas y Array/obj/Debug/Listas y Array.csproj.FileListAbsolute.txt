@@ -1,0 +1,7 @@
+D:\ADSO\4to Trimestre\.Net\Listas y Array\bin\Debug\Listas y Array.exe.config
+D:\ADSO\4to Trimestre\.Net\Listas y Array\bin\Debug\Listas y Array.exe
+D:\ADSO\4to Trimestre\.Net\Listas y Array\bin\Debug\Listas y Array.pdb
+D:\ADSO\4to Trimestre\.Net\Listas y Array\obj\Debug\Listas y Array.csproj.AssemblyReference.cache
+D:\ADSO\4to Trimestre\.Net\Listas y Array\obj\Debug\Listas y Array.csproj.CoreCompileInputs.cache
+D:\ADSO\4to Trimestre\.Net\Listas y Array\obj\Debug\Listas y Array.exe
+D:\ADSO\4to Trimestre\.Net\Listas y Array\obj\Debug\Listas y Array.pdb
