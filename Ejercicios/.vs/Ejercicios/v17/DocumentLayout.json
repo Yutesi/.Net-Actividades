@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\",
+  "WorkspaceRootPath": "E:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F70DA24-DEC6-4C3C-9486-1786E9FF4292}|Ejercicios\\Ejercicios.csproj|d:\\adso\\4to trimestre\\.net\\ejercicios\\ejercicios\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6F70DA24-DEC6-4C3C-9486-1786E9FF4292}|Ejercicios\\Ejercicios.csproj|e:\\adso\\4to trimestre\\.net\\ejercicios\\ejercicios\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F70DA24-DEC6-4C3C-9486-1786E9FF4292}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,21 +18,21 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "1.cs",
-              "DocumentMoniker": "D:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\Ejercicios\\1.cs",
+              "DocumentMoniker": "E:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\Ejercicios\\1.cs",
               "RelativeDocumentMoniker": "Ejercicios\\1.cs",
-              "ToolTip": "D:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\Ejercicios\\1.cs",
+              "ToolTip": "E:\\ADSO\\4to Trimestre\\.Net\\Ejercicios\\Ejercicios\\1.cs",
               "RelativeToolTip": "Ejercicios\\1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAPAAAA",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwEgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T10:22:23.077Z",
               "EditorCaption": ""

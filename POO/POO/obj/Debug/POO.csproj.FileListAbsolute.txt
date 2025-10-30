@@ -1,0 +1,7 @@
+D:\ADSO\4to Trimestre\.Net\POO\POO\bin\Debug\POO.exe.config
+D:\ADSO\4to Trimestre\.Net\POO\POO\bin\Debug\POO.exe
+D:\ADSO\4to Trimestre\.Net\POO\POO\bin\Debug\POO.pdb
+D:\ADSO\4to Trimestre\.Net\POO\POO\obj\Debug\POO.csproj.AssemblyReference.cache
+D:\ADSO\4to Trimestre\.Net\POO\POO\obj\Debug\POO.csproj.CoreCompileInputs.cache
+D:\ADSO\4to Trimestre\.Net\POO\POO\obj\Debug\POO.exe
+D:\ADSO\4to Trimestre\.Net\POO\POO\obj\Debug\POO.pdb

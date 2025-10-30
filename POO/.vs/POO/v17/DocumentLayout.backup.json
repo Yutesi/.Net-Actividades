@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\",
+  "WorkspaceRootPath": "E:\\ADSO\\4to Trimestre\\.Net\\POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11656D14-4210-462C-B551-040112EBFD26}|Listas y Array.csproj|e:\\adso\\4to trimestre\\.net\\listas y array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11656D14-4210-462C-B551-040112EBFD26}|Listas y Array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{831D3BF4-91D9-47CD-9210-E75F96037901}|POO\\POO.csproj|e:\\adso\\4to trimestre\\.net\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D3BF4-91D9-47CD-9210-E75F96037901}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEcAAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "E:\\ADSO\\4to Trimestre\\.Net\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "E:\\ADSO\\4to Trimestre\\.Net\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwDkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T20:22:36.535Z",
+              "WhenOpened": "2025-10-27T14:39:07.123Z",
               "EditorCaption": ""
             }
           ]

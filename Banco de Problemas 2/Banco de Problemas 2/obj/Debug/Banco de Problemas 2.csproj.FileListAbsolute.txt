@@ -1,0 +1,8 @@
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\bin\Debug\Banco de Problemas 2.exe.config
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\bin\Debug\Banco de Problemas 2.exe
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\bin\Debug\Banco de Problemas 2.pdb
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\obj\Debug\Banco de Problemas 2.csproj.AssemblyReference.cache
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\obj\Debug\Banco de Problemas 2.csproj.CoreCompileInputs.cache
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\obj\Debug\Banco de Problemas 2.exe
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\obj\Debug\Banco de Problemas 2.pdb
+E:\ADSO\4to Trimestre\.Net\Banco de Problemas 2\Banco de Problemas 2\obj\Debug\Banco de Problemas 2.exe.config

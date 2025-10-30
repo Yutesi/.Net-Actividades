@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\",
+  "WorkspaceRootPath": "E:\\ADSO\\4to Trimestre\\.Net\\Banco de Problemas 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11656D14-4210-462C-B551-040112EBFD26}|Listas y Array.csproj|e:\\adso\\4to trimestre\\.net\\listas y array\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11656D14-4210-462C-B551-040112EBFD26}|Listas y Array.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4964C2A3-FE15-43DB-A33D-A2526CD20B5A}|Banco de Problemas 2\\Banco de Problemas 2.csproj|e:\\adso\\4to trimestre\\.net\\banco de problemas 2\\banco de problemas 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4964C2A3-FE15-43DB-A33D-A2526CD20B5A}|Banco de Problemas 2\\Banco de Problemas 2.csproj|solutionrelative:banco de problemas 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +28,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\ADSO\\4to Trimestre\\.Net\\Listas y Array\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwEcAAAA1AAAAAAAAAA==",
+              "DocumentMoniker": "E:\\ADSO\\4to Trimestre\\.Net\\Banco de Problemas 2\\Banco de Problemas 2\\Program.cs",
+              "RelativeDocumentMoniker": "Banco de Problemas 2\\Program.cs",
+              "ToolTip": "E:\\ADSO\\4to Trimestre\\.Net\\Banco de Problemas 2\\Banco de Problemas 2\\Program.cs",
+              "RelativeToolTip": "Banco de Problemas 2\\Program.cs",
+              "ViewState": "AgIAALgBAAAAAAAAAAAAANMBAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-20T20:22:36.535Z",
+              "WhenOpened": "2025-10-24T21:13:10.16Z",
               "EditorCaption": ""
             }
           ]
