@@ -1,0 +1,517 @@
+﻿++Solución "Angel-Gregorio-Briceño-C" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:Angel-Gregorio-Briceño-C.sln
+++Angel-Gregorio-Briceño-C
+i:{00000000-0000-0000-0000-000000000000}:Angel-Gregorio-Briceño-C
+++Connected Services 
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>641
+++Base de datos de SQL Server (ConnectionStrings:DefaultConnection)
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>659
+++Dependencias
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>640
+++Analizadores
+i:{b70de676-f84b-4ed1-b327-108689185c85}:analizadores
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+i:{b70de676-f84b-4ed1-b327-108689185c85}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+i:{b70de676-f84b-4ed1-b327-108689185c85}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+i:{b70de676-f84b-4ed1-b327-108689185c85}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+i:{b70de676-f84b-4ed1-b327-108689185c85}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+i:{b70de676-f84b-4ed1-b327-108689185c85}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Marcos de trabajo
+i:{b70de676-f84b-4ed1-b327-108689185c85}:marcos de trabajo
+++Microsoft.AspNetCore.App
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\microsoft.netcore.app
+++Paquetes
+i:{b70de676-f84b-4ed1-b327-108689185c85}:paquetes
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (8.0.0)
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>658
+++Microsoft.EntityFrameworkCore.Design (8.0.0)
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>657
+++Microsoft.EntityFrameworkCore.SqlServer (8.0.0)
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>653
+++Microsoft.EntityFrameworkCore.Tools (8.0.0)
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>654
+++Properties
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\properties\
+++launchSettings.json
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\properties\launchsettings.json
+++wwwroot
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\
+++css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\css\
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\js\
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\
+++favicon.ico
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\favicon.ico
+++Controllers
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\controllers\
+++HomeController.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\controllers\homecontroller.cs
+++Data
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\data\
+++ApplicationDbContext.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\data\applicationdbcontext.cs
+++Migrations
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\migrations\
+++20251110221040_InitialCreate.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\migrations\20251110221040_initialcreate.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\migrations\applicationdbcontextmodelsnapshot.cs
+++Models
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\
+++Cliente.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\cliente.cs
+++ErrorViewModel.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\errorviewmodel.cs
+++Producto.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\producto.cs
+++Venta.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\venta.cs
+++VentaDetalle.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\models\ventadetalle.cs
+++Views
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\
+++Home
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\home\
+++Index.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\home\index.cshtml
+++Privacy.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\home\privacy.cshtml
+++Shared
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\shared\
+++_Layout.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\_viewstart.cshtml
+++appsettings.json
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\appsettings.json
+++appsettings.Development.json
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\appsettings.development.json
+++Program.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\program.cs
+++Se detectó una dependencia de Base de datos de SQL Server con connectionId "ConnectionStrings:DefaultConnection"
+i:{b70de676-f84b-4ed1-b327-108689185c85}:>660
+++site.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\css\site.css
+++site.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\js\site.js
+++bootstrap
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\
+++jquery
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\
+++jquery-validation
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation-unobtrusive\
+++20251110221040_InitialCreate.Designer.cs
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\migrations\20251110221040_initialcreate.designer.cs
+++_Layout.cshtml.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\views\shared\_layout.cshtml.css
+++dist
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\dist\
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\license.txt
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{b70de676-f84b-4ed1-b327-108689185c85}:d:\adso\4to trimestre\.net\angel gregorio briceño c\angel gregorio briceño c\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++bin
+++Debug
+++net8.0
+++cs
+++de
+++es
+++fr
+++it
+++ja
+++ko
+++pl
+++pt-BR
+++ref
+++ru
+++runtimes
+++tr
+++zh-Hans
+++zh-Hant
+++Angel-Gregorio-Briceño-C.deps.json
+++Angel-Gregorio-Briceño-C.dll
+++Angel-Gregorio-Briceño-C.exe
+++Angel-Gregorio-Briceño-C.pdb
+++Angel-Gregorio-Briceño-C.runtimeconfig.json
+++Angel-Gregorio-Briceño-C.staticwebassets.runtime.json
+++Azure.Core.dll
+++Azure.Identity.dll
+++Humanizer.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+++Microsoft.CodeAnalysis.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+++Microsoft.Data.SqlClient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+++Microsoft.EntityFrameworkCore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+++Microsoft.Extensions.DependencyModel.dll
+++Microsoft.Identity.Client.dll
+++Microsoft.Identity.Client.Extensions.Msal.dll
+++Microsoft.IdentityModel.Abstractions.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+++Microsoft.IdentityModel.Logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+++Microsoft.SqlServer.Server.dll
+++Microsoft.Win32.SystemEvents.dll
+++Mono.TextTemplating.dll
+++System.CodeDom.dll
+++System.Composition.AttributedModel.dll
+++System.Composition.Convention.dll
+++System.Composition.Hosting.dll
+++System.Composition.Runtime.dll
+++System.Composition.TypedParts.dll
+++System.Configuration.ConfigurationManager.dll
+++System.Drawing.Common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+++System.Memory.Data.dll
+++System.Runtime.Caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+++System.Security.Permissions.dll
+++System.Windows.Extensions.dll
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+++unix
+++win
+++win-arm
+++win-arm64
+++win-x64
+++win-x86
+++native
+++net6.0
+++Microsoft.Data.SqlClient.SNI.dll
+++obj
+++Angel Gregorio Briceño C..csproj.nuget.dgspec.json
+++Angel Gregorio Briceño C..csproj.nuget.g.props
+++Angel Gregorio Briceño C..csproj.nuget.g.targets
+++Angel Gregorio Briceño C.csproj.nuget.dgspec.json
+++Angel Gregorio Briceño C.csproj.nuget.g.props
+++Angel Gregorio Briceño C.csproj.nuget.g.targets
+++Angel-Gregorio-Briceño-C.csproj.nuget.dgspec.json
+++Angel-Gregorio-Briceño-C.csproj.nuget.g.props
+++Angel-Gregorio-Briceño-C.csproj.nuget.g.targets
+++project.assets.json
+++project.nuget.cache
+++refint
+++scopedcss
+++staticwebassets
+++.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+++Angel Gregorio Briceño C..AssemblyInfo.cs
+++Angel Gregorio Briceño C..AssemblyInfoInputs.cache
+++Angel Gregorio Briceño C..assets.cache
+++Angel Gregorio Briceño C..csproj.AssemblyReference.cache
+++Angel Gregorio Briceño C..GeneratedMSBuildEditorConfig.editorconfig
+++Angel Gregorio Briceño C..GlobalUsings.g.cs
+++Angel Gregorio Briceño C..RazorAssemblyInfo.cache
+++Angel Gregorio Briceño C..RazorAssemblyInfo.cs
+++Angel Gregorio Briceño C.AssemblyInfo.cs
+++Angel Gregorio Briceño C.AssemblyInfoInputs.cache
+++Angel Gregorio Briceño C.assets.cache
+++Angel Gregorio Briceño C.csproj.AssemblyReference.cache
+++Angel Gregorio Briceño C.GeneratedMSBuildEditorConfig.editorconfig
+++Angel Gregorio Briceño C.GlobalUsings.g.cs
+++Angel Gregorio Briceño C.RazorAssemblyInfo.cache
+++Angel Gregorio Briceño C.RazorAssemblyInfo.cs
+++Angel-Gr.C277152A.Up2Date
+++Angel-Gregorio-Briceño-C.AssemblyInfo.cs
+++Angel-Gregorio-Briceño-C.AssemblyInfoInputs.cache
+++Angel-Gregorio-Briceño-C.assets.cache
+++Angel-Gregorio-Briceño-C.csproj.AssemblyReference.cache
+++Angel-Gregorio-Briceño-C.csproj.CoreCompileInputs.cache
+++Angel-Gregorio-Briceño-C.csproj.FileListAbsolute.txt
+++Angel-Gregorio-Briceño-C.GeneratedMSBuildEditorConfig.editorconfig
+++Angel-Gregorio-Briceño-C.genruntimeconfig.cache
+++Angel-Gregorio-Briceño-C.GlobalUsings.g.cs
+++Angel-Gregorio-Briceño-C.MvcApplicationPartsAssemblyInfo.cache
+++Angel-Gregorio-Briceño-C.RazorAssemblyInfo.cache
+++Angel-Gregorio-Briceño-C.RazorAssemblyInfo.cs
+++Angel-Gregorio-Briceño-C.sourcelink.json
+++apphost.exe
+++project.razor.vs.bin
+++staticwebassets.build.json
+++staticwebassets.development.json
+++staticwebassets.pack.json
+++bundle
+++projectbundle
+++msbuild.Angel-Gregorio-Briceño-C.Microsoft.AspNetCore.StaticWebAssets.props
+++msbuild.build.Angel-Gregorio-Briceño-C.props
+++msbuild.buildMultiTargeting.Angel-Gregorio-Briceño-C.props
+++msbuild.buildTransitive.Angel-Gregorio-Briceño-C.props
+++Angel-Gregorio-Briceño-C.styles.css
+++Angel-Gregorio-Briceño-C.bundle.scp.css
+++_Layout.cshtml.rz.scp.css
+++Importaciones
+++Sdk.props
+++Sdk.targets
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.101\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+++Microsoft.Common.props
+++Microsoft.NET.Sdk.props
+++Sdk.Razor.CurrentVersion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+++Microsoft.NET.Sdk.Publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+++Microsoft.CSharp.targets
+++Microsoft.NET.Sdk.targets
+++Microsoft.NET.Compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+++Sdk.Razor.CurrentVersion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+++Microsoft.NuGet.ImportBefore.props
+++NuGet.props
+++Microsoft.NET.Sdk.DefaultItems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+++Microsoft.NET.SupportedPlatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+++Microsoft.NET.ILLink.props
+++Microsoft.NET.Compatibility.props
+++Microsoft.NET.PackTool.props
+++Microsoft.NET.PackProjectTool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+++Microsoft.NET.Windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+++Microsoft.TypeScript.Default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+++Microsoft.Managed.Before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+++Microsoft.Managed.After.targets
+++Microsoft.NET.Sdk.Common.targets
+++Microsoft.PackageDependencyResolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+++Microsoft.NET.DesignerSupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+++Microsoft.NET.ComposeStore.targets
+++Microsoft.NET.CrossGen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+++Microsoft.NET.Publish.targets
+++Microsoft.NET.PackTool.targets
+++Microsoft.NET.PackProjectTool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+++Microsoft.NET.ConflictResolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+++Microsoft.NET.ILLink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+++Microsoft.TypeScript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+++Microsoft.Web.Designtime.targets
+++Default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+++Microsoft.EntityFrameworkCore.props
+++Microsoft.NuGet.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+++AutoImport.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.android)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.ios)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maccatalyst)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.macos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.maui)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.sdk.tvos)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.emscripten)
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.100\microsoft.net.workload.mono.toolchain)
+++Microsoft.CSharp.Core.targets
+++Microsoft.CSharp.DesignTime.targets
+++Microsoft.Common.targets
+++Microsoft.ServiceModel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+++04.04.04.00.props
+++Microsoft.NET.ILLink.Tasks.props
+++System.Windows.Forms.Analyzers.props
+++Microsoft.Managed.Core.targets
+++Microsoft.Managed.DesignTime.targets
+++Microsoft.Common.CurrentVersion.targets
+++Microsoft.Managed.Core.CurrentVersions.targets
+++Angel-Gregorio-Briceño-C.csproj.user
+++Microsoft.NET.props
+++Microsoft.CodeAnalysis.targets
+++Microsoft.Xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+++Microsoft.TeamTest.targets
+++NuGet.targets
+++Microsoft.Docker.ImportAfter.targets
+++Microsoft.NET.Build.Extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+++Microsoft.Web.ImportAfter.targets
+++Microsoft.Extensions.Options.targets
+++Microsoft.Extensions.Logging.Abstractions.targets
+++Microsoft.Docker.targets
+++Microsoft.Web.IISSupport.targets
